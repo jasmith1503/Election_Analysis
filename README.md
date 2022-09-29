@@ -17,6 +17,7 @@ The voting data represent the election for U.S. House Colorado District 1 held o
 
 ## Election Audit Results
 Using the data provided the largest county which had the highest voter turnout was Denver. The winner of the specific election was the incumbent Diana DeGette with 73% (272,892) of the votes cast. 
+
 ![Election_Results_ScreenGrab](Resources/ElectionResults.jpg) 
 
 
